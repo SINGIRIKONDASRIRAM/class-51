@@ -1,0 +1,19 @@
+
+.header {
+    border:solid;
+    background-color: aqua;
+    color: #964B00;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: yellowgreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.flex{
+    display:flex;
+    justify-content: flex-end;
+}
